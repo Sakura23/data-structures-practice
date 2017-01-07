@@ -9,6 +9,10 @@ public void print();
 ```
 2. Determine if a linked list is a palindrome.
 
+```java
+boolean isPalindrome(List list);
+```
+
 ##Binary search tree
 
 ##Graph
