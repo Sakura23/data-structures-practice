@@ -14,6 +14,12 @@ Insert an element onto the end of the list.
 public void insert(int item);
 ```
 
+Reverse a linked list.
+
+```java
+public void reverse();
+```
+
 ##Binary search tree
 
 ##Graph
