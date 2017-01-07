@@ -6,6 +6,7 @@ The following contains a plethora of questions on particular data structures fou
 
 ```java
 public void print();
+```
 
 2. Insert an element onto the end of the list.
 
