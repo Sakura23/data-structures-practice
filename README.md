@@ -2,7 +2,7 @@ The following contains a plethora of questions on particular data structures fou
 
 ##Linked list
 
-Traverse a linked list and print out its elements. [Solution]() | [Test cases]()
+Traverse a linked list and print out its elements.    [Solution]() | [Test cases]()
 
 ```java
 public void print();
