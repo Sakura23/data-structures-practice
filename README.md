@@ -8,16 +8,10 @@ The following contains a plethora of questions on particular data structures fou
 public void print();
 ```
 
-Insert an element onto the end of the list.
+2. Insert an element onto the end of the list.
 
 ```java
 public void insert(int item);
-```
-
-Determine if a linked list is a palindrome.
-
-```java
-boolean isPalindrome(List list);
 ```
 
 ##Binary search tree
