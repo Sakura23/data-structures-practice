@@ -20,6 +20,12 @@ Reverse a linked list.
 public void reverse();
 ```
 
+Delete the k-th last element from a linked list.
+
+```java
+public void deleteKthLast();
+```
+
 ##Binary search tree
 
 ##Graph
