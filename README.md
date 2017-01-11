@@ -26,6 +26,12 @@ Delete the k-th last element from a linked list.
 public void deleteKthLast();
 ```
 
+Remove all occurrences of a key k in the list.
+
+```java
+public void removeKey(int k);
+```
+
 ##Binary search tree
 
 ##Graph
